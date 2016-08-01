@@ -17,7 +17,7 @@ sword-org项目的maven库
 2 添加sword的依赖项，以sword-ocean为例
 ```xml
 		<dependency>
-			<groupId>com.sword.ocean</groupId>
+			<groupId>org.sword.ocean</groupId>
 			<artifactId>sword-ocean</artifactId>
 			<version>1.0.1</version>
 		</dependency>
